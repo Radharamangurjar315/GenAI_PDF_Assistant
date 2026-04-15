@@ -1,0 +1,34 @@
+# ==============================================================================
+# GenAI PDF Bot — Dependencies
+# ==============================================================================
+# Core framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+
+# LLM & AI
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langchain-huggingface>=0.1.0
+langchain-text-splitters>=0.3.0
+
+# Embeddings
+sentence-transformers>=3.0.0
+huggingface-hub>=0.25.0
+
+# Vector store
+faiss-cpu>=1.9.0
+
+# PDF processing
+pypdf>=5.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# HTTP client (required by LangChain)
+httpx>=0.27.0
+
+# Testing
+pytest>=8.0.0
+httpx>=0.27.0
