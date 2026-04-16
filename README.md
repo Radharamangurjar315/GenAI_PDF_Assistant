@@ -1,6 +1,6 @@
 # 🤖 GenAI PDF Bot
 
-> A production-grade **Retrieval-Augmented Generation (RAG)** assistant built with **FastAPI**, **LangChain**, and **FAISS** that lets you upload PDF documents and ask context-aware questions with conversational memory.
+> A production-grade **Retrieval-Augmented Generation (RAG)** assistant built with **FastAPI**, **React**, **LangChain**, and **FAISS** that lets you upload PDF documents and ask context-aware questions with conversational memory.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688?logo=fastapi&logoColor=white)
